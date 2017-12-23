@@ -29,6 +29,8 @@ pesNumber = 1 (can be kept random) --------- No of processing elements to be use
 ## Experiment:
 We created 20 Virtual machines (giving each VM a full Space shared processing element) and kpet their mips random (b/w 500 to 1000). Similarly, we created different number of cloudlets randomly allocating their lengths(no of instructions) to them. Then the DatacenterBroker was given different algorithms to use in order to allocate these tasks to VMs. The following plots were made to show the performance of the datacenter when using these different optimization techniques.
 
+For implementaion code see - [here](/implementaion/)
+
 ### The following are the meaning of symbols used:-
 ```
 Q -------- multiplier for pheromone update
@@ -52,9 +54,12 @@ As we increase the number of ants, The variance increases,
 
 As we change values of alpha, beta, gamma:-
 
-[Plot4](/png1/7.png) [Plot5](/png/10.png) 
-[Plot6](/png1/8.png) [Plot7](/png1/11.png) 
-[Plot8](/png1/6.png) [Plot9](/png1/14.png)
+[Plot4](/png1/7.png)
+[Plot5](/png/10.png) 
+[Plot6](/png1/8.png) 
+[Plot7](/png1/11.png) 
+[Plot8](/png1/6.png) 
+[Plot9](/png1/14.png)
 
 ## Some observations:
 Plots show that:
