@@ -45,3 +45,18 @@ gamma ------------ Exponent of Load balancing factor
 
 rho = 0.05 (kept constant) ----------- vapourization constant for pheromone trail
 ```
+## Plots
+![Plot1](/png1/3.png)
+As we increase the number of ants, The variance increases,
+![Plot2](/png1/1.png) ![Plot3](/png1/2.png)
+
+As we change values of alpha, beta, gamma:-
+
+[Plot4](/png1/7.png) [Plot5](/png/10.png) [Plot6](/png1/8.png) [Plot7](/png1/11.png) [Plot8](/png1/6.png) [Plot9](/png1/14.png)
+
+## Some observations:
+Plots show that:
+1. Value of alpha should be low.
+2. Value of beta should be lower than alpha.
+3. Value of gamma should be high.
+4. Number of ants(m) must be kept b/w `vms` and `2*vms` where vms -- Number of VMs used.
