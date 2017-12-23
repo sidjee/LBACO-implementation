@@ -52,7 +52,9 @@ As we increase the number of ants, The variance increases,
 
 As we change values of alpha, beta, gamma:-
 
-[Plot4](/png1/7.png) [Plot5](/png/10.png) [Plot6](/png1/8.png) [Plot7](/png1/11.png) [Plot8](/png1/6.png) [Plot9](/png1/14.png)
+[Plot4](/png1/7.png) [Plot5](/png/10.png) 
+[Plot6](/png1/8.png) [Plot7](/png1/11.png) 
+[Plot8](/png1/6.png) [Plot9](/png1/14.png)
 
 ## Some observations:
 Plots show that:
