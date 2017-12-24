@@ -67,3 +67,11 @@ Plots show that:
 2. Value of beta should be lower than alpha.
 3. Value of gamma should be high.
 4. Number of ants(m) must be kept b/w `vms` and `2*vms` where vms -- Number of VMs used.
+
+## References used:
+[Dynamic Task Scheduling Algorithm based
+on Ant Colony Scheme](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi0p5vnj6LYAhUGPY8KHUTbA0oQFggsMAA&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F082c%2F6b5926f23b9df35ee5c1629528e85bfc7b2a.pdf&usg=AOvVaw2N6UL_dVoTWFgqFOdMl2H5)
+Kamolov Nizomiddin Baxodirjonovich , Tae-Young Choe
+Department of IT Convergence Engineering,
+Kumoh National Institute of Technology,
+Daehak-ro, Gumi, Gyeongbuk, South Korea
